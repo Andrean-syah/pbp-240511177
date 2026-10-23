@@ -1,0 +1,8 @@
+1.	Platform mana yang paling menarik untuk dipelajari? Mengapa?
+: Platform Mobile adalah yang paling menarik karena membutuhkan proses emulasi saat debugging dan kompilasi tambahan ketimbang native desktop atau web, platform mobile juga memiliki market atau target pasar yang lebih luas daripada desktop karena perangkatnya yang praktis dan hampir semua orang memiliki perangkat mobile.
+
+2.	Apa tantangan terbesar saat setup environment?
+: Setup environment Platform Mobile (Android Studio) pada perangkat berbasis Linux terkadang membutuhkan sedikit tinkering agar IDE/SDK dapat digunakan dengan mudah melalui GUI, proses setup juga membutuhkan ruang penyimpanan yang cukup.
+
+3.	Bagaimana rencana Anda mengatasi tantangan tersebut?
+: Membaca forum dan artikel di internet untuk mencari solusi dari orang lain yang memiliki masalah yang sama dan mengompress beberapa folder/directory dan file untuk membebaskan sedikit ruang penyimpanan untuk menginstal SDK yang diperlukan.
